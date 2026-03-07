@@ -2,10 +2,14 @@ p {
     color: blue;
 }
 
-<<<<<<< HEAD
 h2{
     color: blueviolet;
-=======
+}
 h1{ color: palevioletred;
->>>>>>> feature2
+
+}
+
+h5{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
