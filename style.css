@@ -2,10 +2,19 @@ p {
     color: blue;
 }
 
-<<<<<<< HEAD
-h2{
+
+h2 
+{
     color: blueviolet;
-=======
-h1{ color: palevioletred;
->>>>>>> feature2
+}
+
+h1
+{ 
+    color: palevioletred;
+
+}
+
+h3
+{
+   color: brown;
 }
