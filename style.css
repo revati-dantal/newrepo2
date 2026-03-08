@@ -5,6 +5,21 @@ p {
 
 
 
+h2 
+{
+    color: blueviolet;
+}
+
+h1
+{ 
+    color: palevioletred;
+
+}
+
+h3
+{
+   color: brown;
+}
 h2{
     color: blueviolet;
 }
@@ -13,7 +28,8 @@ h1{ color: palevioletred;
 
 }
 
-h5{
+h5
+{
     color: blue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
